@@ -10,7 +10,8 @@
 **Software Engineer @ CodX Solutions (_July 2023 - Present_)**
 - Developed and deployed a web application for medical report generation from voice input.
 - Developed a serverless MLOps system.
-- Researched development of in-house large language models for medical application in a low resource setup. 
+- Researched development of in-house large language models for medical application in a low resource setup.
+   
 **Natural Language Processing Engineer @ TakeLab (_July 2022 - October 2022_)**
 - Preprocessed the DocEE dataset for argument extraction with BIO tagging sequence labeling method.
 - Fine-tuned RoBERTa and DistilBERT models on DocEE for event extraction.
