@@ -35,4 +35,4 @@ A research project which aims to create song lyric generators using various deep
 Developed an in-house model which suggests service groups offered on a clinic managment web page. Created a fully automated MLOps system with Dockerized AWS Lambda Functions, AWS S3 and AWS Aurora RDS MySQL database.
 
 ## Achievements
-- Finished 2nd place in the LUMEN Data Science competition. The task was to create and deploy time-series models for predicting hotel room occupancy for a given reservation.
+- Developed a [machine learning solution](https://gitlab.com/overfittingoverlords/lumen-hotel-occupancy-prediction) which got 2nd place in the LUMEN Data Science competition. The task was to create and deploy time-series models for predicting hotel room occupancy for a given reservation.
