@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, AWS, Javascript
 
 ## Education								       		
-- M.S., Computing - Data Science	| Faculty of Electrical Engineering and Computing, Zagreb (_July 2024_)	 			        		
+- M.S., Data Science	| Faculty of Electrical Engineering and Computing, Zagreb (_July 2024_)	 			        		
 - B.S., Computing | Faculty of Electrical Engineering and Computing, Zagreb (_September 2022_)
 
 ## Work Experience
@@ -16,6 +16,7 @@
 - Preprocessed the DocEE dataset for argument extraction with BIO tagging sequence labeling method.
 - Fine-tuned RoBERTa and DistilBERT models on DocEE for event extraction.
 - Created machine learning and hardware performance reports for model evaluation.
+
 ## Projects
 ### NBA Shot Predictor
 
