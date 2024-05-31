@@ -9,7 +9,7 @@
 ## Work Experience
 **Software Engineer @ CodX Solutions (_July 2023 - Present_)**
 - Developed and deployed a web application for medical report generation from voice input.
-- Developed a serverless MLOps system.
+- Developed a serverless MLOps system for a suggestion model on AWS.
 - Researched development of in-house large language models for medical application in a low resource setup.
    
 **Natural Language Processing Engineer @ TakeLab (_July 2022 - October 2022_)**
@@ -30,9 +30,9 @@ An academic effort which focuses on development of a fish cultivation classifier
 
 A research project which aims to create song lyric generators using various deep learning models. I've implemented four generators in total. Two for generic lyric generation and two for specific artist lyric generation. The models were trained on a song lyric datset created from 2 different data sources and evaluated through human assessments to ensure the generated lyrics are meaningful and stylistically accurate.
 
-### Serverless Service Suggestion
+### Serverless Service Suggestion on AWS
 
 Developed an in-house model which suggests service groups offered on a clinic managment web page. Created a fully automated MLOps system with Dockerized AWS Lambda Functions, AWS S3 and AWS Aurora RDS MySQL database.
 
 ## Achievements
-- Finished 2nd place in LUMEN Data Science competition. The task was to create and deploy time-series models for predicting hotel room occupancy for a given reservation.
+- Finished 2nd place in the LUMEN Data Science competition. The task was to create and deploy time-series models for predicting hotel room occupancy for a given reservation.
