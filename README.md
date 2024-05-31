@@ -2,10 +2,6 @@
 
 #### Technical Skills: Python, SQL, AWS, Javascript
 
-## Education								       		
-- M.S., Data Science	| Faculty of Electrical Engineering and Computing, Zagreb (_July 2024_)	 			        		
-- B.S., Computing | Faculty of Electrical Engineering and Computing, Zagreb (_September 2022_)
-
 ## Work Experience
 **Software Engineer @ CodX Solutions (_July 2023 - Present_)**
 - Developed and deployed a web application for medical report generation from voice input.
@@ -16,6 +12,10 @@
 - Preprocessed the DocEE dataset for argument extraction with BIO tagging sequence labeling method.
 - Fine-tuned RoBERTa and DistilBERT models on DocEE for event extraction.
 - Created machine learning and hardware performance reports for model evaluation.
+
+## Education								       		
+- M.S., Data Science	| Faculty of Electrical Engineering and Computing, Zagreb (_July 2024_)	 			        		
+- B.S., Computing | Faculty of Electrical Engineering and Computing, Zagreb (_September 2022_)
 
 ## Projects
 ### NBA Shot Predictor
