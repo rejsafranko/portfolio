@@ -1,6 +1,6 @@
 # Software Engineer
 
-#### Technical Skills: Python, SQL, AWS, Typescript 
+#### Technical Skills: Python, SQL, AWS, Typescript  
 
 ## Work Experience
 **Software Engineer @ CodX Solutions (_July 2023 - Present_)**
