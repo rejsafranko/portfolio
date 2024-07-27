@@ -3,13 +3,12 @@
 ## Work Experience
 **Software Engineer @ CodX Solutions (_July 2023 - Present_)**
 - Developed and deployed a web application with Next.js, Node.js and AWS for structured medical report generation from voice input.
+- Developed and deployed a web application with Next.js, Flask and Azure Container Apps for assisting medical imaging diagnosis. I fine-tuned and deployed PyTorch ResNet50 and MobileNetV2 models for classifying diseases from medical images.
 - Developed a serverless MLOps system with dockerized Python Lambda functions and SQL for a medical service suggestion model on AWS.
-- Developed and deployed a web application with Next.js, Flask and Azure Container App for assisting medical imaging diagnosis. I developed and deployed custom PyTorch ResNet50 and MobileNetV2 models for classifying diseases from medical images.
    
 **Natural Language Processing Engineer @ TakeLab (_July 2022 - October 2022_)**
 - Fine-tuned Huggingface RoBERTa and DistilBERT models on DocEE for event extraction in the AIDWAS (Artificial Intelligence Disaster Warning System) project.
 - Preprocessed the DocEE dataset for argument extraction with BIO tagging sequence labeling method.
-- Created model evaluation and hardware performance reports.
 
 ## Education								       		
 - M.S., Data Science	| Faculty of Electrical Engineering and Computing, Zagreb (_July 2024_)	 			        		
