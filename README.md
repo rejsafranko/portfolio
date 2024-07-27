@@ -1,6 +1,4 @@
-# Portfolio
-
-A brief overview of my professional, academic and personal projects.
+*A brief overview of my professional, academic and personal projects.*
 
 ## Professional Projects
 
