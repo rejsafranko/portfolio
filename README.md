@@ -1,5 +1,3 @@
-**A brief overview of my professional, academic and personal projects.**
-
 ## Professional Projects
 
 ### Speech To Text Medical Assistant
