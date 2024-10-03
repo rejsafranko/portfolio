@@ -1,5 +1,6 @@
 ## Professional Projects
 
+
 ### Zdravkec Assistant
 
 I developed Zdravkec Assistant, a comprehensive web application to support medical
