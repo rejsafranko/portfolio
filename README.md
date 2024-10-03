@@ -18,7 +18,7 @@ selection, with the best-performing models uploaded to Azure Blob Storage. GradC
 visualizations highlight critical areas in images that influenced model decisions. To maintain model
 performance, Apache Airflow is integrated to monitor for data drifts in the image storage.
 
-### SolarSense
+### SolarSense IoT
 
 I was responsible for creating a complete solution to detect whether solar panels are dirty. I
 built a Typescript API using AWS Lambda and SNS to send real-time notifications from IoT devices. For
